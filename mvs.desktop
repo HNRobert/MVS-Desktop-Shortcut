@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Categories=Utility;
+Name=MVS
+Path=/opt/MVS/bin
+Exec=/opt/MVS/bin/MVS
+Icon=/opt/MVS/MVS.png
+Terminal=false
